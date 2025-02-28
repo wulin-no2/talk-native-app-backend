@@ -34,3 +34,7 @@ build/
 
 ### configuraton ###
 src/main/resources/application.yml
+src/main/resources/application-ubuntu.yml
+
+.DS_Store
+talk-native-app-backend.git/
