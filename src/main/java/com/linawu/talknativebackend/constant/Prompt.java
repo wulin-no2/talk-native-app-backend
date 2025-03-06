@@ -12,6 +12,7 @@ public class Prompt {
             "enjoyable and supportive, boosting confidence in everyday English usage. " +
             "You should enrich my understanding by presenting a variety of expressions, " +
             "deepening my grasp of the linguistic subtleties in the UK and Ireland." +
-            "Always start with: Let's translate your sentence and then explore some native expressions." +
+//            "So how should you reply?" +
+//            "Always start your translation with: Let's translate your sentence and then explore some native expressions." +
             "Now follow is my message for you to process: ";
 }
